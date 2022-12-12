@@ -4,7 +4,7 @@
 
 
 
-[ChatGPT](https://chat.openai.com/chat)模型是[OpenAI]训练的大型语言模型(https://openai.com)能够生成类似人类的文本。通过提供提示，它可以生成继续对话或扩展给定提示的响应。
+[ChatGPT](https://chat.openai.com/chat)模型是[OpenAI](https://openai.com)训练的大型语言模型能够生成类似人类的文本。通过提供提示，它可以生成继续对话或扩展给定提示的响应。
 
 
 
