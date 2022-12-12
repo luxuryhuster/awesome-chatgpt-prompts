@@ -1,16 +1,26 @@
 # 🧠 Awesome ChatGPT Prompts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+欢迎使用“真棒ChatGPT提示”存储库！这是用于ChatGPT模型的提示示例的集合。
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+[ChatGPT](https://chat.openai.com/chat)模型是[OpenAI]训练的大型语言模型(https://openai.com)能够生成类似人类的文本。通过提供提示，它可以生成继续对话或扩展给定提示的响应。
 
-We hope you find these prompts useful and have fun using ChatGPT!
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
+
+在这个存储库中，您将发现可以与ChatGPT一起使用的各种提示。我们鼓励您[添加自己的提示](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md)并使用ChatGPT生成新提示。
+
+
+
+要开始，只需克隆此存储库并使用README中的提示即可。md文件作为ChatGPT的输入。您也可以使用此文件中的提示作为创建自己的的灵感。
+
+
+
+我们希望您发现这些提示有用，并使用ChatGPT玩得开心！
+
+
+
+**[在GitHub上查看](https://github.com/f/awesome-chatgpt-prompts)**
 
 ---
 
